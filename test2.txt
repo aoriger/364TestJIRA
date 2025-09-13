@@ -1,3 +1,9 @@
 test2
 CSP-8
+<<<<<<< Updated upstream
 CSP-7
+=======
+CSP-7
+CSP-6
+CSP-5
+>>>>>>> Stashed changes
